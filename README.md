@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Sai Krishna
 
-<!--
-**saikrishna-billa/saikrishna-billa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Student at IIITDM Kurnool
 
-Here are some ideas to get you started:
+🚀 Exploring **Agentic AI**, **AI Engineering**, **AI Orchestration**, and **Machine Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about building intelligent AI systems that solve real-world problems.
+
+---
+
+- 🎓 Second Year B.Tech in Artificial Intelligence & Data Science
+- 🌱 Interested in Open Source and AI Engineering
+- 🏆 Summer Analytics 2025 – Top 10%
+- 🏅 Winter Consulting 2025 – Top 25%
+- 📫 Reach me: **saikrishna172999@gmail.com**
