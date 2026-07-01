@@ -1,4 +1,5 @@
 # Hi 👋, I'm Sai Krishna
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&height=60&lines=AI+%26+Data+Science+Student;Exploring+Agentic+AI;Building+AI+Agents;Data+Science;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
 ### AI & Data Science Student at IIITDM Kurnool
 
