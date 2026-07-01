@@ -15,7 +15,7 @@
 - 🏅 Winter Consulting 2025 – Top 25%
 - 📫 Reach me: **saikrishna172999@gmail.com**
 
-## 🌐 Connect with Me
+## 🌐 Socials
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sai-krishna-37092a330/" target="_blank">
