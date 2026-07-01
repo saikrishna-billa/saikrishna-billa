@@ -14,3 +14,11 @@
 - 🏆 Summer Analytics 2025 – Top 10%
 - 🏅 Winter Consulting 2025 – Top 25%
 - 📫 Reach me: **saikrishna172999@gmail.com**
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sai-krishna-37092a330/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
